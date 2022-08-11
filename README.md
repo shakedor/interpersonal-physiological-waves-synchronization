@@ -19,6 +19,8 @@ This project provides a tool through which researchers can visually see the leve
 
 Project video link: https://youtu.be/JIH4vIoO9No
 
+Original project in Gitlab: https://gitlab.com/interpersonalsync/interpersonal-physiological-waves-synchronization
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
