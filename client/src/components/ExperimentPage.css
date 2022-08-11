@@ -1,0 +1,72 @@
+/* body {
+    min-height: 100%;
+    margin: 0;
+    background-color: #88b4dd;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  
+  } */
+  
+  /* code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  } */
+  
+
+  .charts {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+    margin: 5px; 
+    height: 46%
+  }
+
+
+  .IBI {
+    width: 50%;
+    margin-right: 5px;
+  }
+  
+  .EDA {
+    width: 50%;
+    margin-left: 5px;
+
+  } 
+
+  .components {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: flex-start;
+    width: 100%;
+    height: 100vh;
+    overflow: 'scroll'
+  }
+
+  .timeSlider {
+    width: 100%;
+    /* height: 10%; */
+  }
+
+  .videoPlayer{
+    width: 30%;
+    /* height: 50%; */
+
+  }
+
+  .Mdrqa{
+    width: 30%;
+
+  }
+
+  
+  .videoandmatrix{
+    display: flex;
+    flex-direction: row nowrap;
+    width: 100%;
+  }
+ 
+
+
