@@ -35,7 +35,7 @@ Original project in Gitlab: https://gitlab.com/interpersonalsync/interpersonal-p
   ```sh
   https://www.mongodb.com/try/download/community
   ```
-- nodeJS
+- NodeJS
   ```sh
   https://nodejs.org/en/download/  
   ```
